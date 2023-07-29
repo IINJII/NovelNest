@@ -1,0 +1,11 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    /* margin: 0px;
+    padding: 0px;
+    box-sizing: border-box; */
+}
+
+#map {
+    height: 600px;
+    width: 75%;
+}
